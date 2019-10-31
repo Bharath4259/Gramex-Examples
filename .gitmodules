@@ -1,0 +1,3 @@
+[submodule "Cargo-delay"]
+	path = Cargo-delay
+	url = https://github.com/Bharath4259/Cargo-delay.git
